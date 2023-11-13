@@ -21,7 +21,7 @@ img{
     width: 160px;
     height: 160px;
     border-radius: 50%;
-    border: 3px solid red
+    border: 3px solid rgb(118, 6, 6)
 }
 
 .center {
@@ -29,5 +29,5 @@ img{
 }
 
 h1{
-    color: brown;
+    color: rgb(118, 6, 6);
 }
