@@ -20,7 +20,7 @@ a{
 img{
     width: 160px;
     height: 160px;
-    -moz-image-region: large
+    border-radius: 1oo%;
     border: 3px solid rgb(118, 6, 6)
 }
 
