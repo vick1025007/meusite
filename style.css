@@ -39,5 +39,5 @@ h2{
 }
 
 p{
-    text-decoration: aqua;
+    -moz-text-size-adjust: 40%;
 }
